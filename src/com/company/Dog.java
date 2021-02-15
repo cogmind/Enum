@@ -41,7 +41,7 @@ public class Dog {
     }
 
     public void wagYourTail() {
-        this.tail.wag();
+        tail.wag();
     }
 
 
